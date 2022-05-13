@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 *NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
 
-<a href="https://github.com/siidev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siidev&show_icons=true&theme=gruvbox&count_private=true" alt="siidev github stats" />
-</a>
 
 <a href="https://github.com/siidev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siidev&layout=compact&theme=gruvbox" />
