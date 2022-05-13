@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
-**siidev/siidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**siidev/Poman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Github Stats
+
+*NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!*
+
+<a href="https://github.com/siidev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siidev&show_icons=true&theme=gruvbox&count_private=true" alt="siidev github stats" />
+</a>
+
+<a href="https://github.com/siidev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siidev&layout=compact&theme=gruvbox" />
+</a>
+
+<a href="https://github.com/siidev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siidev&repo=youtube-blocker-v2&theme=gruvbox" />
+</a>
+
+# Visitor Count
+<img src="https://profile-counter.glitch.me/siidev/count.svg" />
