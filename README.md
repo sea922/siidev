@@ -26,9 +26,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siidev&layout=compact&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/siidev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=siidev&repo=youtube-blocker-v2&theme=gruvbox" />
-</a>
 
 # Visitor Count
 <img src="https://profile-counter.glitch.me/siidev/count.svg" />
